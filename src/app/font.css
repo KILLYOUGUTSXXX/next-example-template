@@ -1,0 +1,13 @@
+a {
+  font-family: AndikaReg;
+}
+
+label {
+  letter-spacing: 1.25px;
+}
+
+input,
+select {
+  font-family: AndikaReg;
+  letter-spacing: 1.325px;
+}
